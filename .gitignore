@@ -1,0 +1,12 @@
+# Node.js implementation files
+node_modules/
+dist/
+
+
+# Only keep bash implementation and docs
+!repomix-autotune.sh
+!install.sh
+!team-deploy.sh
+!README.md
+!INSTALL.md
+!.gitignore
